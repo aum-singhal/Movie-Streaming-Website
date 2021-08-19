@@ -6,6 +6,7 @@ Are you a movie maniac, who loves to binge-watch awesome movies & series? If Yes
 Everyone loves to watch their favorite shows with friends and some snacks. But there is something that you might be missing out on!
 <p align="center"><img src="https://i.pinimg.com/originals/43/c8/7e/43c87e08d3858256c4493e64b2c4c501.gif"></p>
 
+
 So, what else do you need?🤔.
 <p align="center"><img src="https://media.tenor.com/images/1498a68342ec3e96a8773995f59dfc39/tenor.gif" width = 40%></p>
 
@@ -36,6 +37,7 @@ Well, take a chill pill. Don't be intimidated by these thoughts. __Apna Theatre 
 ## Contact Us Page
 <p align="center"><img src="Readme_assets/Contactus_p.gif" width = 85% ></p>
 
+
 ## About
 <div>
 <div>
@@ -50,6 +52,7 @@ https://qazimaazarshad.github.io/Movie-Streaming-Website/
 
 ## Tech Stack
 
+     
 <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="200" alt="" />
 
 ## How to get started❓
